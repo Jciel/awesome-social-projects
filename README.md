@@ -28,7 +28,6 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
   - [Caronae](https://github.com/caronae/caronae-backend)
   - [ComuREDE core](https://github.com/comuREDE/core)
   - [I-Educar](https://github.com/portabilis/i-educar)
-  - [Caronae](https://github.com/caronae/caronae-backend)
   
 - Python
   - [Site Afropython](https://github.com/AfroPython/afropython-site)
@@ -41,8 +40,6 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
   - [SME Prato Aberto Editor](https://github.com/prefeiturasp/SME-PratoAberto-Editor)
   - [Site PyLadies Brasil](https://github.com/pyladies-brazil/br-pyladies-pelican)
   - [Colaboradados](https://github.com/colaboradados)
-  - [Vítimas da violência](https://github.com/okfn-brasil/vitimas-da-intolerancia)
-  - [Vítimas da violência](https://github.com/okfn-brasil/vitimas-da-intolerancia)
   - [Vítimas da violência](https://github.com/okfn-brasil/vitimas-da-intolerancia)
 
 - Ruby
