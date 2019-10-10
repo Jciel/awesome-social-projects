@@ -23,6 +23,7 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
   - [SME Fila da creche](https://github.com/prefeiturasp/SME-FilaDaCreche)
   - [Eventos API](https://github.com/frontendbr/eventos-api)
   - [Doe sangue webapp](https://github.com/givebloodorg/doesangue-webapp)
+  - [Perfil Político Frontend](https://github.com/okfn-brasil/perfil-politico-frontend)
 
 - PHP
   - [Caronae](https://github.com/caronae/caronae-backend)
@@ -41,6 +42,7 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
   - [Site PyLadies Brasil](https://github.com/pyladies-brazil/br-pyladies-pelican)
   - [Colaboradados](https://github.com/colaboradados)
   - [Vítimas da violência](https://github.com/okfn-brasil/vitimas-da-intolerancia)
+  - [Perfil Político](https://github.com/okfn-brasil/perfil-politico)
 
 - Ruby
   - [Transervicos](https://github.com/juuh42dias/transervicos)
@@ -49,12 +51,10 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
 
 - Typescript
   - [SME PratoAberto Frontend](https://github.com/prefeiturasp/SME-PratoAberto-Frontend)
+  - [Empenhados Patrimonio App](https://github.com/analytics-ufcg/empenhados-patrimonio-app)
+  - [Voz Ativa](https://github.com/analytics-ufcg/voz-ativa)
 
 - HTML
   - [Codamos](https://github.com/codamos/codamos.github.io/)
   - [Mulheres Palestrantes](https://github.com/insideoutprojectbr/mulheres-palestrantes)
-
-
-  
-  
-  
+  - [Empenhados](https://github.com/analytics-ufcg/empenhados)
