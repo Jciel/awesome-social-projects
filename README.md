@@ -15,6 +15,9 @@ Todo os diretos sob os projetos listados são de seus respectivos mantenedores.
 
 ### Lista
 
+- Comunidades
+  - [perifaCode](https://perifacode.com)
+
 - Javascript  
   - [Vitrine social](https://github.com/Coderockr/vitrine-social)
   - [Livro sem apego](https://github.com/mtsalcova/livro-sem-apego)
